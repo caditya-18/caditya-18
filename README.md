@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caditya-18
-- 👀 I’m interested in ... SAS and Data Analysis
-- 🌱 I’m currently learning ... SAS
-- 💞️ I’m looking to collaborate on ... Data Analyst Project
+- 👀 I’m working in ... Data Engineering
+- 🌱 I’m currently learning ... to Become expert in batch processing
+- 💞️ I’m looking to collaborate on ... Data Engineering Project
 - 📫 How to reach me ... mail me at adityakumar.sharma18@yahoo.in
 
 <!---
